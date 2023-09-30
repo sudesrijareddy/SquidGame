@@ -1,0 +1,40 @@
+.startbtn{
+    padding: 10px 15px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: lightcoral;
+    color: white;
+    margin-top: 70px;
+}
+.timer{
+    font-size: 30px;
+    color: lightslategray;
+    font-weight: 500;
+}
+.gameupdate{
+    display: flex;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+}
+.heading1{
+    font-size: 40px;
+    color: lightslategray;
+}
+.outcomes{
+    font-size: 30px;
+    padding-top: 40px;
+    color: lightseagreen;
+}
+.btn{
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: lightcoral;
+    color: white;
+    font-size: 18px;
+}

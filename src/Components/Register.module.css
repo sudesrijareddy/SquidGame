@@ -1,0 +1,37 @@
+
+.maindiv{
+    max-width: 500px;
+    margin: 40px auto;
+    border: 2px solid lightslategray;
+    border-radius: 8px;
+    padding: 30px;
+}
+.maindiv h1{
+    font-family: 'Dela Gothic One', cursive;
+    color: lightslategray;
+}
+.inputfield{
+    width: 100%;
+    padding: 15px 5px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #F7F7F7;
+    font-size: 18px;
+}
+.button{
+    padding: 13px 22px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: lightcoral;
+    cursor: pointer;
+    color: #fff;
+}
+.button:active{
+    background-color: lightgray;
+}
+.errormssg{
+    color: red;
+}
